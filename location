@@ -1,0 +1,56 @@
+<style type="text/css">
+ 
+body {
+color:blue;
+}
+ 
+#jsalarmclock{
+font-family: Tahoma;
+font-weight: bold;
+font-size: 12px;
+}
+ 
+#jsalarmclock div{
+margin-bottom: 0.8em;
+}
+ 
+#jsalarmclock div.leftcolumn{
+float: left;
+width: 150px;
+font-size: 13px;
+clear: left;
+}
+ 
+#jsalarmclock span{
+margin-right: 5px;
+}
+ 
+.button_menu {
+  width: 100px;
+  height: 28px;
+  background-color: buttonface;
+  border: 1px solid red;
+  border-radius: 10px;
+  color: blue;
+  font-size:18px;
+}
+ 
+.select_menu {
+  width: 100px;
+  height: 28px;
+  background-color: buttonface;
+  border: 1px solid red;
+  border-radius: 10px;
+  color: red;
+}
+ 
+.text_menu {
+ width: 400px;
+  height: 28px;
+  background-color: buttonface;
+  border: 1px solid red;
+  border-radius: 10px;
+  color: blue;
+}
+ 
+</style>
